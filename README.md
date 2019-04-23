@@ -25,6 +25,7 @@ npm start
 * [axios](https://github.com/axios/axios)
 * [Bootstrap](https://getbootstrap.com/)
 * [classnames](https://github.com/JedWatson/classnames)
+* [jasonplaceholder](https://jsonplaceholder.typicode.com/)
 
 
 ## Acknowledgments
